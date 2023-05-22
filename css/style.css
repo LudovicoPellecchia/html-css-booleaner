@@ -1,0 +1,48 @@
+
+
+.background-header{
+    height: 180px;
+    background-color: #4EA0FF;
+    background-image: url(../img/pattern.png);
+    position: relative;
+
+}
+
+#logo{
+    width: 250px;
+    position: absolute;
+    bottom: 0;
+    padding: 10px;
+}
+
+#title{
+    font-size: 40px;
+}
+.article-info{
+    color: rgb(146, 146, 146);
+    margin-bottom: 20px;
+}
+
+#author{
+    color: rgb(5, 198, 242);
+}
+
+#date{
+    font-size: smaller;
+}
+
+.photo-description{
+    font-size: 12px;
+}
+
+.colored-text{
+    background-color: yellow;
+}
+
+ul{
+    padding: 15px;
+}
+
+table{
+    text-align: left;
+}
