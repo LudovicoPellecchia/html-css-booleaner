@@ -46,3 +46,40 @@ ul{
 table{
     text-align: left;
 }
+
+thead{
+    background-color: #4EA0FF;
+    color: white;
+}
+
+th, td{
+    padding-right: 100px;
+}
+
+.first-row, .third-row{
+    background-color: rgb(145, 219, 234);
+}
+
+.suggestions{
+    font-weight: bold;
+    color: rgb(143, 143, 143);
+}
+
+.content{
+    height: 200px;
+    color: white;
+}
+
+.preview{
+    height: 200px;
+    position: relative;
+    margin-top: 20px;
+}
+
+.preview-title{
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
